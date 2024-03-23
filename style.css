@@ -92,13 +92,13 @@ p.vl{
 }
 
 p.at{
-    font-size: 40px;
+    font-size: 35px;
     color: hsl(158, 36%, 37%);
 }
 
 p.ps{
     margin-left: 25px;
-    font-size: 14px;
+    font-size: 20px;
     margin-top: 32px;
     color: rgb(146, 146, 146);
     text-decoration: line-through;
